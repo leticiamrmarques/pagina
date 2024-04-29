@@ -227,7 +227,10 @@ section h2 {
   .contrate-2 {
     display: inline-block;
   }
-  .section h2 {
+  section{
+    margin: 5%;
+  }
+  section h2 {
     font-size: 41px;
   }
   .card {
